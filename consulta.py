@@ -101,7 +101,7 @@ def main():
   print(f'''
 {C}[{G}i{C}] Formas de operação:
 [{G}1{C}] IP.
-[{G}2{C}] Nome.
+[{G}2{ Levi Soares Ferreira}] Nome.
 [{G}3{C}] CPF.
 [{G}4{C}] Vizinhos.
 [{G}5{C}] CEP.
