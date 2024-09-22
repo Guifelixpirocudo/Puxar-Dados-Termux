@@ -124,7 +124,7 @@ tool=input(f'{C}[{G}+{C}] Selecione a forma de operação:{B} ')
   elif tool == "2":
      clear()
      import nome
-     nome.main()
+     nome.main(Levi Soares Ferreira)
   elif tool == "3":
      clear()
      import cpf
